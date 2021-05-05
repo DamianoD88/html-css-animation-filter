@@ -44,6 +44,21 @@ h3 {
     margin-bottom: 20px;
 }
 
+.esercizio {
+    margin-top: 25px;
+    margin-left: 25px;  
+    height: 100px;
+    width: 100px;
+    border: 1px solid red;
+    transition: background-color 2s;
+    
+}
+
+.esercizio:hover {
+    background-color: red;
+}
+
+
 /* descrizione esercizio */
 
 p {
